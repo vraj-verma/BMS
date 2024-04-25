@@ -9,7 +9,7 @@
 
 ### Base URL: `http://localhost:3001/v1`
 
-### Postman Collection URL: https://solar-space-439639.postman.co/workspace/Auth-Module~f1b1abde-3749-4a6a-a3fb-267dc8eab57d/folder/33632274-26d885a4-8e91-43cf-b6d8-f381a4d80b94?ctx=documentation
+### Postman Collection URL: https://www.postman.com/material-physicist-91140387/workspace/my-workspace/collection/34529696-716eaf6b-66b3-419d-a547-0e7a379c1a07?action=share&creator=34529696&active-environment=34529696-2edb3038-5a9d-4266-80e5-9947e2e52eba
 
 # Auth
 
